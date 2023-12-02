@@ -54,6 +54,7 @@ button{
     font-weight: 500;
     color: #FFF;
     cursor: pointer;
+    font-size: 20px;
 }
 
 button:hover {background-color: #15ee1c}
@@ -98,3 +99,11 @@ button:hover {background-color: #15ee1c}
         transform: translateX(0);
     }
 }
+
+footer{
+    position: absolute;
+    top: 80%;
+    left: 45% ;
+    color: white;
+}
+
